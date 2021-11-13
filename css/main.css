@@ -1,0 +1,25 @@
+.blueBG{
+	color: white;
+	background: blue;
+	width: 100px;
+	margin-bottom: 100px;	
+}
+
+h2{
+	font-weight: normal;
+}
+
+.greenBG{
+	color: white;
+	background: green;
+	padding: 5px;
+}
+
+.sizeBG{
+	padding: 50px 50px 50px;
+}
+
+.list{
+	border: solid 1px;
+	font-size: 30px;
+}
